@@ -1,7 +1,7 @@
 # PL
 
-Polityki prywatności dla moich aplikacji
+Polityki Prywatności dla moich aplikacji
 
 # EN
 
-Privacy policies for my applications
+Privacy Policies for my applications
